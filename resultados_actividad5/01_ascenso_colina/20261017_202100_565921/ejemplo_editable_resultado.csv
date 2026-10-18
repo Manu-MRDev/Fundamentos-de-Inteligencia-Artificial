@@ -1,0 +1,2 @@
+﻿ejemplo;estado_inicial;estado_final;costo_final;mejor_estado;mejor_costo;exito;evaluaciones;presupuesto;tiempo_s;motivo;intentos
+ejemplo_editable;[1, 1, 1, 1];[2, 4, 1, 3];0;[2, 4, 1, 3];0;True;37;3000;0.0003700910001498414;solucion_encontrada;1

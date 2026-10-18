@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630">
+<title>Ascenso de colina: inicio ya resuelto</title>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="15" fill="black">
+<text x="500" y="32" text-anchor="middle" font-size="21">Ascenso de colina: inicio ya resuelto</text>
+<path d="M 90 500.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="505.0" text-anchor="end">0</text>
+<text x="90.0" y="526" text-anchor="middle">1</text>
+<path d="M 90 415.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="420.0" text-anchor="end">0.22</text>
+<text x="265.0" y="526" text-anchor="middle">1</text>
+<path d="M 90 330.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="335.0" text-anchor="end">0.43</text>
+<text x="439.99999999999994" y="526" text-anchor="middle">1</text>
+<path d="M 90 245.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="250.0" text-anchor="end">0.65</text>
+<text x="615.0000000000001" y="526" text-anchor="middle">2</text>
+<path d="M 90 160.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="165.0" text-anchor="end">0.86</text>
+<text x="790.0" y="526" text-anchor="middle">2</text>
+<path d="M 90 75.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="80.0" text-anchor="end">1.1</text>
+<text x="965.0" y="526" text-anchor="middle">2</text>
+<path d="M 90 75 V 500 H 965" fill="none" stroke="black"/>
+<polyline points="90.00,500.00" fill="none" stroke="black" stroke-width="2" stroke-dasharray="none"/>
+<circle cx="90.00" cy="500.00" r="2.5"/>
+<path d="M 100 562 h 42" stroke="black" stroke-width="2" stroke-dasharray="none"/>
+<text x="152" y="567">Mejor costo observado</text>
+<text x="520" y="542" text-anchor="middle">Evaluaciones de la función objetivo</text>
+<text transform="translate(24,290) rotate(-90)" text-anchor="middle">Mejor costo observado</text>
+</g></svg>

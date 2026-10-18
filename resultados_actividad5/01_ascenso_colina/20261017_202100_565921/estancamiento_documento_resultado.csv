@@ -1,0 +1,2 @@
+﻿ejemplo;estado_inicial;estado_final;costo_final;mejor_estado;mejor_costo;exito;evaluaciones;presupuesto;tiempo_s;motivo;intentos
+estancamiento_documento;[1, 4, 2, 3];[1, 4, 2, 3];1;[1, 4, 2, 3];1;False;13;3000;9.935599882737733e-05;minimo_local_comprobado;1

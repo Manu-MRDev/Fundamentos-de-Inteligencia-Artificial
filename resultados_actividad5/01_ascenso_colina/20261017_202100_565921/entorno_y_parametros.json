@@ -1,0 +1,18 @@
+{
+  "fecha_local": "2026-10-17T20:21:00.566256",
+  "python": "3.14.8 (main, Oct 13 2026, 10:33:10) [GCC 16.2.1 20260810]",
+  "sistema": "Linux-7.2.9-2-cachyos-x86_64-with-glibc2.44",
+  "parametros": {
+    "estado_editable": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "presupuesto": 3000
+  },
+  "dependencias_externas": [],
+  "medicion": "Incluye búsqueda y trazas en memoria; excluye pruebas, impresión, CSV y dibujo.",
+  "archivo": "ascenso_colina.py",
+  "sha256": "9f53a0fd2cbe5492fcdc91c04a54648dfc496d605bae60b0db2b28294e263952"
+}

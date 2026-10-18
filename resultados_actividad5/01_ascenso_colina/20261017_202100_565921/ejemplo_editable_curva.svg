@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630">
+<title>Ascenso de colina: ejemplo editable</title>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="15" fill="black">
+<text x="500" y="32" text-anchor="middle" font-size="21">Ascenso de colina: ejemplo editable</text>
+<path d="M 90 500.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="505.0" text-anchor="end">0</text>
+<text x="90.0" y="526" text-anchor="middle">1</text>
+<path d="M 90 415.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="420.0" text-anchor="end">1.3</text>
+<text x="265.0" y="526" text-anchor="middle">8</text>
+<path d="M 90 330.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="335.0" text-anchor="end">2.6</text>
+<text x="440.0" y="526" text-anchor="middle">15</text>
+<path d="M 90 245.0 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="250.0" text-anchor="end">3.9</text>
+<text x="615.0" y="526" text-anchor="middle">23</text>
+<path d="M 90 160.00000000000003 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="165.00000000000003" text-anchor="end">5.2</text>
+<text x="790.0" y="526" text-anchor="middle">30</text>
+<path d="M 90 74.9999999999999 H 965" stroke="black" opacity="0.13"/>
+<text x="78" y="79.9999999999999" text-anchor="end">6.5</text>
+<text x="965.0" y="526" text-anchor="middle">37</text>
+<path d="M 90 75 V 500 H 965" fill="none" stroke="black"/>
+<polyline points="90.00,106.48 114.31,106.48 114.31,237.65 138.61,237.65 138.61,237.65 162.92,237.65 162.92,237.65 187.22,237.65 187.22,237.65 211.53,237.65 211.53,237.65 235.83,237.65 235.83,303.24 260.14,303.24 260.14,303.24 284.44,303.24 284.44,303.24 308.75,303.24 308.75,303.24 333.06,303.24 333.06,303.24 357.36,303.24 357.36,303.24 381.67,303.24 381.67,303.24 405.97,303.24 405.97,434.41 430.28,434.41 430.28,434.41 454.58,434.41 454.58,434.41 478.89,434.41 478.89,434.41 503.19,434.41 503.19,434.41 527.50,434.41 527.50,434.41 551.81,434.41 551.81,434.41 576.11,434.41 576.11,434.41 600.42,434.41 600.42,434.41 624.72,434.41 624.72,434.41 649.03,434.41 649.03,434.41 673.33,434.41 673.33,434.41 697.64,434.41 697.64,434.41 721.94,434.41 721.94,434.41 746.25,434.41 746.25,434.41 770.56,434.41 770.56,434.41 794.86,434.41 794.86,434.41 819.17,434.41 819.17,434.41 843.47,434.41 843.47,434.41 867.78,434.41 867.78,434.41 892.08,434.41 892.08,434.41 916.39,434.41 916.39,434.41 940.69,434.41 940.69,500.00 965.00,500.00 965.00,500.00" fill="none" stroke="black" stroke-width="2" stroke-dasharray="none"/>
+<circle cx="90.00" cy="106.48" r="2.5"/>
+<path d="M 100 562 h 42" stroke="black" stroke-width="2" stroke-dasharray="none"/>
+<text x="152" y="567">Mejor costo observado</text>
+<text x="520" y="542" text-anchor="middle">Evaluaciones de la función objetivo</text>
+<text transform="translate(24,290) rotate(-90)" text-anchor="middle">Mejor costo observado</text>
+</g></svg>
